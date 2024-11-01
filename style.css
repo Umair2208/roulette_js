@@ -1,0 +1,62 @@
+.grid-parent1 {
+  width: fit-content;
+}
+.grid-container {
+  height: 100vh;
+  align-content: center;
+  background-image: url("https://img.freepik.com/premium-photo/realistic-casino-elements-background_1029473-673314.jpg?semt=ais_hybrid");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+.input1 {
+  width: 500px;
+}
+.bet {
+  width: 500px;
+}
+.btn1 {
+  width: 100%;
+  border: 0;
+}
+.div2 {
+  display: none;
+  margin-bottom: 10px;
+}
+.div1 {
+  width: 100px;
+  align-items: center;
+  padding: 20px;
+  color: #fff;
+  font-size: 25px;
+  font-weight: 1000;
+}
+.pp2 {
+  display: none;
+  font-size: 30px;
+  color: red;
+  font-weight: 1000;
+  font-family: "Pacifico", cursive;
+  /* font-weight: 400; */
+  font-style: normal;
+}
+.pp3 {
+  display: none;
+  font-size: 30px;
+  color: green;
+  font-weight: 1000;
+  font-family: "Pacifico", cursive;
+  /* font-weight: 400; */
+  font-style: normal;
+}
+@media (max-width: 568px) {
+  /* .form1 {
+    width: 100%;
+  }
+  .input1 {
+    width: 100%;
+  }
+  .bet {
+    width: 100%;
+  } */
+}
